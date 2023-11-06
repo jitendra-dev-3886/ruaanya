@@ -1,0 +1,280 @@
+
+
+@media (min-width:1920px){ .services_banner{  background:#f2f2fa url(../images_2022/wave_s_bg.jpg) no-repeat center bottom; background-size:100% 125px;} }
+
+@media (min-width:1400px){ 
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{ max-width:1140px;} 
+.os_bx_right{ max-width:710px;} 
+.oneapp_multiple_services .addpay_img_1, .oneapp_multiple_services .addpay_img_2{ width:150px;}
+}
+
+
+
+@media (min-width:1199px) and (max-width:1350px){  
+.oneapp_multiple_services .addpay_img_2 {
+	top: 0px;
+	width: 125px;
+}
+}
+
+
+@media (min-width:992px) and (max-width:1199px){  
+.navbar-light .navbar-nav > .nav-item > .nav-link{ font-size:14px; padding:0px 12px;} 
+.navbar-brand{ width:200px;} 
+.navbar .btn.start_here{ font-size:13px; padding:8px;} 
+.addpay_img_1{ width:140px;} .addpay_img_2{ width:200px;} 
+.oneapp_sec_2 .nav-tabs .nav-link{ font-size:14px; padding:8px !important;} 
+.testimonial_slider .carousel-item .test_right blockquote p{ font-size:14px; line-height:24px; padding-top:10px !important;} 
+.benifits_of_joining_us .bju_cl{max-width:100%;} 
+
+/*==================================03=08=2022=======================================*/
+.homebanner{ background:#edf0f7;} .homebanner .h_thmnl_m{ margin-right:-20px;} 
+.homebanner .banking_for_new h1{ font-size:54px; margin-top:60px;} 
+.homebanner .banking_for_new p{ font-size:16px; line-height:30px;} 
+.about_m_section .font40{ font-size:30px;} .about_img{ margin-right:-20px;} 
+.ovm_l_img{ margin-left:-20px;} .oneapp_multiple_services .addpay_img_1, .oneapp_multiple_services .addpay_img_2{ width:130px;} 
+.s_thmnl_r figure{ margin-right:-20px; margin-left:-20px;} 
+
+/*===================09=08=2022=======================*/
+
+.form_lf_ftr ul li{ padding:0px 3px; font-size:11px;} 
+
+
+  
+}
+
+@media (min-width:768px) and (max-width:991px){   
+.ap_bx_mid{ max-width:490px;}  
+header{ position:relative; z-index:9999;}
+.navbar-light .navbar-toggler{ border:none; border-radius:2px; background:#fd6101; z-index:9999; color:#fff; box-shadow:none !important; outline:none; padding:6px 12px;} 
+.navbar-light .navbar-toggler:hover, .navbar-light .navbar-toggler:focus{ background:#303289; color:#fff;} 
+#navbarmain{ width:100%; position:fixed; right:-100%; top:0px; background:#fff; height:100%; transition:all 1s; padding:70px 80px 20px; text-align:center; overflow-y:auto;  } 
+#navbarmain.show{ right:0px;}
+.navbar-nav{ text-align:center;} .navbar-light .navbar-nav > .nav-item > .nav-link{ display:inline-block;} 
+.navbar-light .navbar-nav > .nav-item{ margin-bottom:15px;} 
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > li > .dropdown-item{ text-align:center;} 
+.addpay_img_1{ width:140px;} .addpay_img_2{ width:160px;}  
+.multiple_service ul li{ width:32%; margin-bottom:15px;} 
+.oneapp_sec_2 .nav-tabs .nav-link{ font-size:10.5px; padding:6px 7px;} 
+.oneapp_sec_2 #digitalsuite figcaption h4 br{ display:none;} 
+.bd_service ul li{ width:32%;} .font42{ font-size:35px;} .bju_cl{ margin-bottom:25px;} 
+.bpu_wrap .row figcaption{ margin-left:0px !important;} .categories_bx ul li a{ font-size:14px;} 
+.testimonial_slider .carousel-item .test_right blockquote p{ font-size:14px; line-height:22px; padding-top:10px !important; padding-bottom:8px;} 
+.depn_right h2{ font-size:32px !important;} .depn_right h4{ font-size:20px !important;} 
+.address p br{ display:none;} .about_ftr{ margin-right:0px !important;} 
+.bpu_wrap .row.align-items-center{align-items:start !important;} 
+.benifits_of_joining_us .bju_cl{max-width:100%;} 
+/*=================================15=05=2022========================================*/ 
+.contact_form{ padding:25px;} 
+.single_contact_inner{height: -moz-calc(100% - 25px);
+/* WebKit */
+height: -webkit-calc(100% - 25px);
+/* Opera */
+height: -o-calc(100% - 25px);
+/* Standard */
+height: calc(100% - 25px); margin-bottom:25px;} 
+
+/*==========================03=08=2022============================*/
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu{ padding:20px!important; text-align:center; margin:15px;}
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li  a, .navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li{ text-align:center !important;} .navbar-light .navbar-nav > .nav-item > .dropdown-menu .menu_heading a{ margin-bottom:8px; margin-top:15px;}  
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li > .dropdown-menu > li >  a{ padding:3px !important;}
+.dropdown-menu{ text-align:center !important;}  
+
+/*==================================03=08=2022=======================================*/
+.homebanner{ background:#edf0f7;} .homebanner .h_thmnl_m{ margin-right:-20px;} 
+.homebanner .banking_for_new h1{ font-size:45px; line-height:50px; margin-top:50px; margin-bottom:10px !important;} 
+.homebanner .banking_for_new p{ font-size:14px; line-height:25px; padding-bottom:0px !important; margin-bottom:15px !important;} 
+.about_m_section { text-align:center;} .os_bx_right ul li{ min-height:110px;} 
+.os_bx_right ul li .p_number{ font-size:30px; padding-bottom:8px;} .os_bx_right ul li .p_number strong{ font-size:35px;} 
+.os_bx_right ul li p{ font-size:14px; line-height:18px;} .ovm_l_img{ margin-left:0px !important; margin-bottom:25px !important;} 
+
+.oneapp_multiple_services .addpay_img_1, .oneapp_multiple_services .addpay_img_2{ width:110px;} 
+
+/*============================05=08=2022=================================*/
+#navbarmain{ display:none;} 
+.navbar .accordion{display:block !important;} 
+.navbar .accordion.show{ left:0px; display:block !important;} 
+.s_thmnl_r figure{ margin-right:-20px; margin-left:-20px;} 
+.s_detail h3{ font-size:18px; line-height:28px; margin-bottom:10px !important;} 
+.s_detail p{ font-size:14px; line-height:24px; padding-bottom:0px !important;} .sd_title{ margin-bottom:5px !important;} 
+.dw_app_btn{ font-size:18px; padding:5px 15px !important;} 
+
+
+/*===================09=08=2022=======================*/
+.login_title_rw  p, .cl_f_2 p{ font-size:14px;} 
+.frm_r_rw ul li a{ display:flex; justify-content:center; flex-wrap:wrap; text-align:center; font-size:13px;} 
+.frm_r_rw ul li a .fa{ margin-right:0px;}
+
+.btn_rw_slide .btn {
+	min-width: 230px;
+	margin: 10px 0px 10px 20px !important;
+}
+
+}
+
+@media (min-width:992px){  
+.navbar-light .navbar-nav > .nav-item:hover > .dropdown-menu{  display:flex; flex-wrap:wrap;} 
+/*============================03=08=2022=================================*/
+
+.nav-item.dropdown{ position:initial;} .navbar-light .navbar-nav > .nav-item{ padding:10px 0px;}
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu {
+	width: 100%;
+	left: 0px;
+	top: 76px;
+	box-shadow: none !important;
+	padding-top: 30px;
+	padding-bottom: 35px;
+	border-top: #fd6101 2px solid !important;
+	border-bottom: #fd6101 5px solid !important;
+}
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul{ margin:0px; list-style:none; padding:0px; display:flex; justify-content:space-between; white-space:nowrap;}
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li > .dropdown-menu > li > a{ font-size:15px; font-weight:400; padding:0px 0px 8px !important;} .navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li{ padding-right:17px;} 
+.nav-item > .dropdown-menu > .container > ul > li:last-child{ padding-right:0px;}
+
+}
+
+@media (max-width:767px){  
+body{ font-size:14px; line-height:22px;}
+.ap_bx_mid{ max-width:80%;} 
+header{ position:relative; z-index:9999;}
+.navbar-light .navbar-toggler{ border:none; border-radius:2px; background:#fd6101; z-index:9999; color:#fff; box-shadow:none !important; outline:none; padding:6px 12px;} 
+.navbar-light .navbar-toggler:hover, .navbar-light .navbar-toggler:focus{ background:#303289; color:#fff;} 
+#navbarmain{ width:100%; position:fixed; right:-100%; top:0px; background:#fff; height:100%; transition:all 1s; padding:70px 20px 20px; text-align:center; overflow-y:auto; } 
+#navbarmain.show{ right:0px;}
+.navbar-nav{ text-align:center;} .navbar-light .navbar-nav > .nav-item > .nav-link{ display:inline-block; padding:3px 0px;} 
+.navbar-light .navbar-nav > .nav-item{ margin-bottom:10px;} 
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > li > .dropdown-item{ text-align:center;} 
+.font48{ font-size:36px;} .font42{ font-size:28px;} .addpay_img_1{ width:70px; top:-90px;} .addpay_img_2{ width:80px; top:-90px;}  
+.multiple_service ul li{ width:32%; margin-bottom:20px;} .oneapp_sec_2 .nav-tabs .nav-link {
+	font-size: 16px;
+	padding: 12px 8px;
+}
+.oneapp_sec_2 figcaption{ text-align:center; padding-top:15px;} 
+.service_nav_pills .nav-tabs .nav-link{flex-direction:column; font-size:14px; line-height:18px; padding:8px 8px;} .service_nav_pills .nav-tabs .nav-link i{ margin:0px 0px 8px;} 
+.bd_service ul li, .ezeepay_wallet_sec ul li{ width:48%;} .ezeepay_wallet_sec ul li{ margin-bottom:30px;} 
+.bju_cl{ text-align:center; margin-bottom:25px;} .benifits_of_joining_us .bju_cl h6{ justify-content:center; text-align:left;} 
+.bpu_wrap figcaption{ margin:0px !important; padding-top:25px;} 
+.bpu_wrap figcaption h4, .bpu_wrap figcaption h5, .bpu_wrap figcaption p, .depn_right, .know_sec_1 figcaption, .know_sec_1 figure, .oneapp_sec_1 figcaption{ text-align:center;} 
+.test_right{ padding-right:0px !important; text-align:center; height:auto !important; padding-top:15px;} .test_right h6{ text-align:center !important; margin-top:10px !important;} 
+.testimonial_slider .carousel-item .test_right blockquote{ height:auto;} .depn_right{ padding-top:20px; padding-bottom:15px;} 
+.about_ftr{ margin-right:0px !important; text-align:center; margin-bottom:20px;} .fmenu_cl{ margin-left:0px !important; text-align:center;} 
+.contactinfo, .footer_bottom, .footer_bottom .text-end{ text-align:center !important;} .logo_ftr{ margin-bottom:10px;} 
+.applink_form .btn{ width:120px; font-size:14px;} .applink_form .form-control{ margin-right:-120px; padding-right:124px;} 
+.testimonial_slider .carousel-indicators button{ width:12px; height:12px;} 
+.title_m__top{ padding-bottom:0px !important;} .contactinfo{ margin-top:10px;} 
+.benifits_of_joining_us .bju_cl{max-width:100%;} .oneapp_sec_1 .col-md-4{ text-align:center;} 
+.service_nav_pills .nav-tabs .nav-link{ height:100%;} 
+
+/*=================================15=05-2022==================================*/
+ .ul2 ul li{ width:100%;} 
+
+/*=================================15=05=2022========================================*/ 
+.single_contact_inner{ height:auto; margin-bottom:25px;} .contactus{ padding-top:25px;} 
+.contact_form{ margin:0px; padding:25px;} 
+
+.login_m{ height:auto;} 
+.login_m .sign-up-container, .login_m .sign-in-container{ position:relative; width:100%;} 
+.login_m .form-container{ position:relative; height:auto;} 
+.login_m .overlay-container{ width:100%; height:250px; left:0;} 
+.login_m .sign-up-container{ display:none;} 
+.login_m .container{ padding-top:280px; padding-bottom:30px;} 
+.login_m .container.right-panel-active .overlay-container, .login_m .container.right-panel-active .sign-in-container{transform:translateX(0);} 
+.login_m .container.right-panel-active .sign-up-container{ transform:translateX(0); display:block;} 
+.login_m .container.right-panel-active .sign-in-container{ display:none;}  
+.login_m form{ padding:0px 12px;} 
+.login_m .overlay-panel{ padding:20px;} 
+.login_register{ padding-top:15px !important;} 
+
+/*==========================03=08=2022============================*/
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu{ padding:20px!important; text-align:center; margin:15px; }
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li  a, .navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li{ text-align:center !important;} .navbar-light .navbar-nav > .nav-item > .dropdown-menu .menu_heading a{ margin-bottom:8px; margin-top:15px;} 
+.navbar-light .navbar-nav > .nav-item > .dropdown-menu > .container > ul > li > .dropdown-menu > li >  a{ padding:3px !important;}
+.dropdown-menu{ text-align:center !important;} 
+
+/*==================================03=08=2022=======================================*/
+.homebanner{ background:#edf0f7;} 
+.homebanner .h_thmnl_m{ margin:0px;} 
+.banking_for_new{ text-align:center; padding-bottom:25px !important;} .homebanner .banking_for_new h1{ font-size:42px; margin-top:0px; margin-bottom:10px !important;} 
+.homebanner .banking_for_new p{ font-size:15px; line-height:24px; margin-bottom:0px !important;} 
+.oneapp_sec_2 .nav-tabs .nav-item{ width:100%; text-align:center;} 
+.about_m_section { text-align:center;} .about_img{ margin:0px;} 
+.font40{ font-size:28px;} .about_m_section  .font40 br{ display:none;} .ovm_l_img{ margin:0px 0px 25px !important;} 
+.ovm_bx{ margin-left:0px !important; display:block !important; text-align:center; padding:20px;} 
+.ovm_bx .ovm_c_r{ text-align:center; padding:15px 0px 0px !important; width:100%;} 
+
+.os_bx_right ul li{ min-height:110px;} 
+.os_bx_right ul li .p_number{ font-size:30px; padding-bottom:8px;} .os_bx_right ul li .p_number strong{ font-size:35px;} 
+.os_bx_right ul li p{ font-size:14px; line-height:18px;} .ovm_l_img{ margin-left:0px !important; margin-bottom:25px !important;} 
+.os_img.text-end{ text-align:center !important; margin-bottom:25px;} .ovm_bx .ovm_c_r p{ font-size:14px; line-height:24px;} 
+
+#carousel2 .item{ text-align:center;} 
+
+.award_recognitions #carousel2 .owl-nav, #carousel1  .owl-nav{ display:none;} 
+
+.award_recognitions #carousel2 .owl-dots .owl-dot span, #carousel1 .owl-dots .owl-dot span{ width:8px; border-radius:50px;} 
+
+.oneapp_multiple_services .addpay_img_1, .oneapp_multiple_services .addpay_img_2{ display:none;} 
+.bpu_wrap figure{ padding-left:0px !important;} 
+
+/*============================05=08=2022=================================*/
+#navbarmain{ display:none;} 
+.navbar .menu_left{display:block !important;} 
+.navbar .menu_left.show{ right:0px; display:block !important;} 
+.product2_sec figcaption{ text-align:center; padding-top:20px;} 
+.s_thmnl_r figure{ margin-right:0px; margin-left:0px;} 
+.s_detail{ text-align:center; padding-top:15px;} .s_detail h3{ font-size:18px; line-height:30px; margin-bottom:10px !important;} 
+.sd_title{ margin-bottom:0px !important;} .dw_app_btn{ font-size:18px; padding:5px 15px !important;} 
+.title_t_bs .font28{ line-height:38px;} .bs_sec_wrap figcaption{ text-align:center; padding-top:20px;} 
+
+/*===================09=08=2022=======================*/
+.cl_f_2 .frm_r_rw ul{ flex-wrap:wrap;}
+.cl_f_2 .frm_r_rw ul li{ padding:0px 0px 15px; border:none; width:100%; text-align:center;}
+.cl_f_2 .frm_r_rw ul li a{ display:flex; justify-content:center; flex-direction:column;} 
+.frm_r_rw ul li a .fa{ margin:0px auto 5px;} .form_section .cl_f_2{ padding-bottom:325px;} 
+.backtop{ right:inherit !important; left:10px;}
+.form_section .cl_f_1 {
+
+	padding: 50px 25px 20px 25px;
+}
+.about_descrip {
+	padding-right: 0px;
+}
+.backtop {
+	display: none;
+}
+.footer_bottom .dark_color {
+	display: block;
+}
+.btn_rw_slide .btn {
+	min-width: 230px;
+	margin: 10px 0px 10px 20px !important;
+}
+}
+@media (max-width:480px){  
+.categories_bx .round_btn {
+	margin-left: 0px !important;
+	margin: 0 10px 20px !important;
+	width: 190px;
+}
+.tab-content figcaption .round_btn {
+	width: 190px;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	margin-bottom: 20px;
+}
+.btn_rw_slide .btn {
+	min-width: 230px;
+	margin: 10px 0px 10px 0px !important;
+}
+.carousel-control-prev, .carousel-control-next  { display: none !important;}
+	
+	.knowledge_center .nav-tabs {
+	background: #303289;
+	border: none;
+	padding: 20px;
+	border-radius: 20px;
+	display: block;
+	max-width: 360px;
+	margin: 0 auto 30px;
+}
+}
